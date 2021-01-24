@@ -7,7 +7,7 @@
 </em></p>
 
 
-[![Linkedin:Jose Carlos Torro](https://img.shields.io/badge/-jose-carlos-torr%C3%B3-a94b67194-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-carlos-torr%C3%B3-a94b67194/)](https://www.linkedin.com/in/jose-carlos-torr%C3%B3-a94b67194/)
+[![Linkedin:Jose Carlos Torro](https://img.shields.io/badge/-Jose_Carlos_Torro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-carlos-torr%C3%B3-a94b67194/)](https://www.linkedin.com/in/jose-carlos-torr%C3%B3-a94b67194/)
 [![GitHub JoseCarTorBel](https://img.shields.io/github/followers/JoseCarTorBel?label=follow&style=social)](https://github.com/JoseCarTorBel)
 
 
