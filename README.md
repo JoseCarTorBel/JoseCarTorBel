@@ -3,7 +3,7 @@
 <img align='right' src="./Assets/profile.png" width="230">
 
 <p><em>Ingeniería Informática  <a href="https://www.uji.es/">Universitat Jaume I</a>
-</br>Becado investigador en <a href="http://www.hpca.uji.es/">HPC&A UJI</a>
+</br>Becario investigador en <a href="http://www.hpca.uji.es/">HPC&A UJI</a>
 </em></p>
 
 
