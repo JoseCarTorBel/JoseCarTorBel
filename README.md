@@ -3,7 +3,7 @@
 <img align='right' src="./Assets/profile.png" width="230">
 
 <p><em>Ingeniería Informática  <a href="https://www.uji.es/">Universitat Jaume I</a>
-</br>Becario investigador en <a href="http://www.hpca.uji.es/">HPC&A UJI</a>
+</br>Software Engineer in <a href="https://www.torrecid.com/es/indice/">Torrecid Spain</a>
 </em></p>
 
 
