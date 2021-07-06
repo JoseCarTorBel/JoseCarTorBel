@@ -15,9 +15,29 @@
 
 ```Python
 {
-  "Code": {Java, Python, C, Bash},
-  "Tools": {TensorFlow: {v1, v2}, TensorFlow Lite, TensorRT, SQL Server, Android},
-  "Technologies": {LoRaWAN, LoRa, Bluetooth, WiFi},
+  "Code": 
+  {
+    Java, 
+    Python, 
+    C#, 
+    Bash
+  },
+  "Tools": 
+    {
+     Angular,
+     TensorFlow: {v1, v2}, 
+     TensorFlow Lite, 
+     TensorRT, 
+     SQL Server, 
+     Android
+   },
+  "Technologies": 
+  {
+    LoRaWAN, 
+    LoRa, 
+    Bluetooth, 
+    WiFi
+  },
   "Microcontrollers": {Arduino, ESP32},
   "Edge computing": {Nvidia Jetson Nano, Nvidia Jetson TX2, Jetson Xavier NX, Google Coral dev board, Raspberry Pi},  
   "Projects": {
