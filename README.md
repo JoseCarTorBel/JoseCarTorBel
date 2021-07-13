@@ -24,6 +24,10 @@
   {
     tittle: "Computación de Altas Prestaciones Consciente del Consumo para Redes Neuronales Profundas",
     description: "Create, analyze and implement inference in diferent low consumption systems as Nvidia Jetson Nano"
+  },
+  {
+    tittle: "Redes LoRa para la monitorización de datos en entornos industriales",
+    description: "Creación de redes LoRa en la monitorización de  datos contextuales como temperatura, humedad o niveles de gases"
   }
 }
 ```
