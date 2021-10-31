@@ -15,9 +15,9 @@
 
 ```Python
 {
-  "Code":{ Java, Python, C#, Bash },
+  "Code":{ Java, Python, C#, Bash, C },
   "Tools": { Angular, TensorFlow: {v1, v2}, TensorFlow Lite, TensorRT, SQL Server, Android },
-  "Technologies": { LoRaWAN, LoRa, Bluetooth, WiFi },
+  "Technologies": { ASP.NET, LoRaWAN, LoRa, Bluetooth, WiFi },
   "Microcontrollers": {Arduino, ESP32},
   "Edge computing": {Nvidia Jetson Nano, Nvidia Jetson TX2, Jetson Xavier NX, Google Coral dev board, Raspberry Pi},  
   "Projects": 
@@ -26,8 +26,14 @@
     description: "Create, analyze and implement inference in diferent low consumption systems as Nvidia Jetson Nano"
   },
   {
-    tittle: "Redes LoRa para la monitorización de datos en entornos industriales",
-    description: "Creación de redes LoRa en la monitorización de  datos contextuales como temperatura, humedad o niveles de gases"
+    tittle: "LoRa networks for data monitoring in industrial environments",
+    description: "Creation of LoRa networks in monitoring contextual data such as temperature, humidity or gas levels"
+  },
+  Job: {
+    Training in Devops:
+    { 
+      Developer: Programing frontend and backend apps using Angular and ASP.NET,
+      IT Operations: Managing servers. Docker swarm integration and Jenkins.
   }
 }
 ```
