@@ -22,7 +22,7 @@
   "Edge computing": {Nvidia Jetson Nano, Nvidia Jetson TX2, Jetson Xavier NX, Google Coral dev board, Raspberry Pi},  
   "Projects": 
   {
-    tittle: "Computación de Altas Prestaciones Consciente del Consumo para Redes Neuronales Profundas",
+    tittle: "Consumption-Aware High Performance Computing for Deep Neural Networks",
     description: "Create, analyze and implement inference in diferent low consumption systems as Nvidia Jetson Nano"
   },
   {
