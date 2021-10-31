@@ -2,9 +2,12 @@
 
 <img align='right' src="./Assets/profile.png" width="230">
 
-<p><em>Ingeniería Informática  <a href="https://www.uji.es/">Universitat Jaume I</a>
-</br>Software Engineer in <a href="https://www.torrecid.com/es/indice/">Torrecid Spain</a>
-</em></p>
+<p>
+  <em>Graduate in Computer Engineering  in <a href="https://www.uji.es/">Universitat Jaume I</a>
+</br>
+  Software Engineer in <a href="https://www.torrecid.com/es/indice/">Torrecid Spain</a>
+</em>
+</p>
 
 
 [![Linkedin:Jose Carlos Torro](https://img.shields.io/badge/-Jose_Carlos_Torro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-carlos-torr%C3%B3-a94b67194/)](https://www.linkedin.com/in/jose-carlos-torr%C3%B3-a94b67194/)
