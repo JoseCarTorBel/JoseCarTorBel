@@ -25,11 +25,11 @@
   "Edge computing": {Nvidia Jetson Nano, Nvidia Jetson TX2, Jetson Xavier NX, Google Coral dev board, Raspberry Pi},  
   "Projects": 
   {
-    tittle: "Consumption-Aware High Performance Computing for Deep Neural Networks",
+    title: "Consumption-Aware High Performance Computing for Deep Neural Networks",
     description: "Create, analyze and implement inference in diferent low consumption systems as Nvidia Jetson Nano"
   },
   {
-    tittle: "LoRa networks for data monitoring in industrial environments",
+    title: "LoRa networks for data monitoring in industrial environments",
     description: "Creation of LoRa networks in monitoring contextual data such as temperature, humidity or gas levels"
   },
   Job: {
