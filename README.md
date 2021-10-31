@@ -5,7 +5,7 @@
 <p>
   <em>Graduate in Computer Engineering  in <a href="https://www.uji.es/">Universitat Jaume I</a>
 </br>
-  Software Engineer in <a href="https://www.torrecid.com/es/indice/">Torrecid Spain</a>
+  DevOps in <a href="https://www.torrecid.com/es/indice/">Torrecid Spain</a>
 </em>
 </p>
 
