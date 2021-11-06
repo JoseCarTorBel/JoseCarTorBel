@@ -35,8 +35,8 @@
   Job: {
     Full stack developer:
     { 
-      Developer: Programing frontend and backend apps using Angular and ASP.NET,
-      IT Operations: Managing servers. Docker swarm integration and Jenkins.
+      Developer: "Programing frontend and backend apps using Angular and ASP.NET",
+      IT Operations: "Managing servers. Docker swarm integration and Jenkins."
   }
 }
 ```
