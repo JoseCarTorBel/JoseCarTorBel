@@ -18,7 +18,7 @@
 
 ```Python
 {
-  "Code":{ Java, Python, C\#, Bash, C },
+  "Code":{ Java, Python, 'C#', Bash, C },
   "Tools": { Angular, TensorFlow: {v1, v2}, TensorFlow Lite, TensorRT, SQL Server, Android },
   "Technologies": { ASP.NET, LoRaWAN, LoRa, Bluetooth, WiFi },
   "Microcontrollers": {Arduino, ESP32},
