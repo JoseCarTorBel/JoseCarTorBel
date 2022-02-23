@@ -19,8 +19,9 @@
 ```Python
 {
   "Code":{ Java, Python, 'C#', Bash, C },
-  "Tools": { Angular, TensorFlow: {v1, v2}, TensorFlow Lite, TensorRT, SQL Server, Android },
-  "Technologies": { ASP.NET, LoRaWAN, LoRa, Bluetooth, WiFi },
+  "Tools": { TensorFlow: {v1, v2}, TensorFlow Lite, TensorRT, SQL Server, Android },
+  "Framework": { Angular }
+  "Technologies": { LoRaWAN, LoRa, Bluetooth, WiFi },
   "Microcontrollers": {Arduino, ESP32},
   "Edge computing": {Nvidia Jetson Nano, Nvidia Jetson TX2, Jetson Xavier NX, Google Coral dev board, Raspberry Pi},  
   "Projects": 
@@ -36,7 +37,8 @@
     "Full stack developer":
     { 
       Developer: "Programing frontend and backend apps using Angular and ASP.NET",
-      IT Operations: "Managing servers. Docker swarm integration and Jenkins."
+      IT Operations: "Managing servers. Docker swarm integration and Jenkins.",
+      Q&A: "Test the repositories and ensure that the code is standard"
   }
 }
 ```
