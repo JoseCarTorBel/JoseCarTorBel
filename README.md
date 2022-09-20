@@ -5,7 +5,7 @@
 <p>
   <em>Graduate in Computer Engineering  in <a href="https://www.uji.es/">Universitat Jaume I</a>
 </br>
-  DevOps in <a href="https://www.torrecid.com/es/indice/">Torrecid Spain</a>
+  DevOps in <a href="https://www.ust.com/es">UST Spain</a>
 </em>
 </p>
 
@@ -34,11 +34,15 @@
     description: "Creation of LoRa networks in monitoring contextual data such as temperature, humidity or gas levels"
   },
   Job: {
-    "Full stack developer":
+    "DevOps":
     { 
       Developer: "Programing frontend and backend apps using Angular and ASP.NET",
       IT Operations: "Managing servers. Docker swarm integration and Jenkins.",
       Q&A: "Test the repositories and ensure that the code is standard"
+  },
+  "DevOps":
+  {
+    Devops engineer with the deployment team for the Mercury project of Banco Santander
   }
 }
 ```
