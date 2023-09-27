@@ -5,7 +5,7 @@
 <p>
   <em>Graduate in Computer Engineering  in <a href="https://www.uji.es/">Universitat Jaume I</a>
 </br>
-  DevOps in <a href="https://www.ust.com/es">UST Spain</a>
+  DevOps at <a href="https://www.seidor.com/ca-es">SEIDOR Opentrends</a>
 </em>
 </p>
 
