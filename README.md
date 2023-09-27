@@ -18,10 +18,43 @@
 
 ```Python
 {
-  "DevOps": { Jenkins, Kubernetes, OpenShift, IBM Cloud, Azure, Docker Swarm, Kibana, Grafana, Dynatrace, Nexus, VMware vSphere, Elasticsearch, Hardbor},
-  "Task Automazitation": { Python, Groovy, Bash },
-  "Backend developer": { C#, Java Spring Boot, Visual Basic 6 }
-  "Frontend developer": { Angular 12, NG-Zorro, JS }
+  "DevOps": {
+      "Cloud": {
+        Azure,
+        AWS
+      },
+      "Tools": {
+        Jenkins,
+        VMWare
+      },
+      "Monitoring": {
+        Dynatrace,
+        Elasticsearch,
+        Kibana,
+        Zabbix
+      },
+      "Docker": {
+        Kubernetes,
+        IBM Cloud,
+        Docker Swarm,
+        Openshift
+      }
+  },
+  "Task Automazitation": {
+    Python,
+    Groovy,
+    Bash
+  },
+  "Backend developer": {
+    C\#,
+    Java Spring Boot,
+    Visual Basic 6
+  },
+  "Frontend developer": {
+    Angular 12,
+    NG-Zorro,
+    JS
+  }
   "Others": { C, MQTT, LoRa WAN, LoRa, ESP32 }
 }
 ```
